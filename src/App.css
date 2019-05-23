@@ -1,0 +1,8 @@
+.App-Title{
+    text-align: center;
+    color: lightgrey;
+}
+.App-Line{    
+    display: flex;
+    justify-content: center;
+}
